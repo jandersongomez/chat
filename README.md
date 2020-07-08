@@ -13,3 +13,4 @@ para iniciar el proyecto:
  3. ![Se vera una pantalla como esta](https://i.imgur.com/mQzctPg.png)
  4. utilice como usuario: **root** 
  5. utilice como contraseña: **politecnico**
+ 6. para correr test `npm run tests`
