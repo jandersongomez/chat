@@ -1,3 +1,4 @@
+![Codeship](https://img.shields.io/codeship/3a9c1a40-a2e3-0138-8bea-4a1ec1ffce33?style=for-the-badge)
 # chat
 
 Sistema de chat multi-empresarial integracion Continua 
